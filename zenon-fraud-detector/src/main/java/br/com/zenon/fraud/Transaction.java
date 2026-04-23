@@ -26,6 +26,8 @@ public class Transaction {
         this.destino = destino;
         this.isFraud = isFraud;
         this.isFlaggedFraud = isFlaggedFraud;
+
+
     }
 
     public Integer getStep() {
